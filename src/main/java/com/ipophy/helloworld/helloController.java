@@ -1,4 +1,4 @@
-package com.ipophy;
+package com.ipophy.helloworld;
 
 
 import com.ipophy.model.HelloBean;
